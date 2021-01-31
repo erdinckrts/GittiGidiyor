@@ -27,7 +27,7 @@ Selenium Web Otomasyon
 5)Maven project<br>
 
 
-#Yüzeysel olartak Ortam Kurulumu (Maven Projesi için)
+#Yüzeysel olarak Ortam Kurulumu (Maven Projesi için)
 
   *Selenium<br>
   pom.xml dosyasına bağımlılıkları ekliyoruz<br>
