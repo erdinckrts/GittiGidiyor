@@ -1,5 +1,9 @@
 # GittiGidiyor
 
+
+NOT: Uygulamayı çalıştırmadan önce src/test/java/resources/user sınıfının içerisine email ve password değerleri girilmelidir
+
+
 Selenium Web Otomasyon
 - www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
