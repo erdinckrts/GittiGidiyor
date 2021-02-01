@@ -40,8 +40,8 @@ Selenium Web Otomasyon
   *Log4j<br>
   pom.xml dosyasına bağımlılıkları ekliyoruz<br>
   resource dosyasının içerisine log2j.proprties dosyasını oluşturup içerisine rootlogger ve gerekli appenderları tanımlıyoruz<br>
-  log mesajı kullanacağımız bütün classlarda logger nesnedi oluşturuyoruz<br>
+  log mesajı kullanacağımız bütün classlarda logger nesnesi oluşturuyoruz<br>
   
 __________________________________________________________________________________________________________________________
- test/java içerisine pages paketi oluşturup içerisine uygulamada kullanacağımız sayfaların classlarını  ve içerisinde kullanacağımız elemanları ve metodları tanımlıyoruz 
- (isterseniz base class oluşturup  Inheritance ilişki kullanılabilir)
+  pages paketi içerisinde uygulamada kullanacağımız sayfaların classlarını  ve sayfalara ait metodları tanımlıyoruz 
+ (isterseniz base class oluşturup  Inheritance ilişki kullanabilirsiniz)
